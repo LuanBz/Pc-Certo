@@ -34,8 +34,3 @@ A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servi
 <li><a href="docs/09-Referências Bibliográficas.md"> Referências Bibliográficas</a></li>
 </ol>
 
-
-
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
